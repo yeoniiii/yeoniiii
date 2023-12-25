@@ -14,7 +14,9 @@
 - 🏆 제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그 대상(과학기술정보통신부장관상) (2023.08~2023.12)
 
 > **Tech Stack**
-- Python Google Colab Jupyter Visual Studio Code Tableau Notion R RSTUDIO SQL HTML 
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=blue"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/>
 
 > **Contacts**
 - GMAIL NAVER TISTORY Tableau Public
