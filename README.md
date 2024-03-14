@@ -13,9 +13,18 @@
 </br>
 
 > **Experience** 
-- 📚 SK mySUNI DGL 디지털 리터러시 기획단 1기, **우수 활동팀, 우수 활동자** `2022.01 ~ 2022.03`
-- 📚 빅데이터 연합동아리 BOAZ 18기, 데이터 분석 & 시각화 부문 **우수 활동자** `2022.01 ~ 2023.01`
+- 👩🏻‍💻 SK mySUNI DGL 디지털 리터러시 기획단 1기, **우수 활동팀, 우수 활동자** `2022.01 ~ 2022.03`
+- 👩🏻‍💻 빅데이터 연합동아리 BOAZ 18기, 데이터 분석 & 시각화 부문 **우수 활동자** `2022.01 ~ 2023.01`
 </br>
+
+
+
+## 📚 Study Blog
+[[  NLP  ]](https://wistful-soap-d03.notion.site/NLP-Study-76b333ed13924807b25977968f865472?pvs=4)
+[[  DL  ]](https://wistful-soap-d03.notion.site/bcf0e7a0b9294cd287661fedf3bd592c?pvs=4)
+[[  Algorithm  ]](https://wistful-soap-d03.notion.site/b3d5af7aa5cd43dcb56bf6230b76b5ac?pvs=4)
+[[  MLOps  ]](https://wistful-soap-d03.notion.site/MLOps-9eaebe00aec0492498b3f531a560df47?pvs=4)
+
 
 ## 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
@@ -24,4 +33,3 @@
 ## 📞 Contacts
 
 <a href="mailto:yeorii@korea.ac.kr"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a> <a href="https://public.tableau.com/app/profile/.75603875/vizzes"><img src="https://img.shields.io/badge/Tableau Public-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
-
