@@ -26,6 +26,9 @@
 [[  MLOps  ]](https://wistful-soap-d03.notion.site/MLOps-9eaebe00aec0492498b3f531a560df47?pvs=4)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeorii)](https://solved.ac/yeorii/)
+
+
 ## 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/> [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeorii)](https://solved.ac/yeorii)
 
@@ -33,3 +36,4 @@
 ## 📞 Contacts
 
 <a href="mailto:yeorii@korea.ac.kr"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a> <a href="https://public.tableau.com/app/profile/.75603875/vizzes"><img src="https://img.shields.io/badge/Tableau Public-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+
