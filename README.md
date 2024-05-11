@@ -24,6 +24,7 @@
 [[  DL  ]](https://wistful-soap-d03.notion.site/bcf0e7a0b9294cd287661fedf3bd592c?pvs=4)
 [[  Algorithm  ]](https://wistful-soap-d03.notion.site/b3d5af7aa5cd43dcb56bf6230b76b5ac?pvs=4)
 [[  MLOps  ]](https://wistful-soap-d03.notion.site/MLOps-9eaebe00aec0492498b3f531a560df47?pvs=4)
+[[  LLM  ]](https://wistful-soap-d03.notion.site/LLM-Study-4e281f09951b4b199a51909b29974b19?pvs=4)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeorii)](https://solved.ac/yeorii)
