@@ -13,26 +13,19 @@
 </br>
 
 > **Experience** 
-- 👩🏻‍💻 SK mySUNI DGL 디지털 리터러시 기획단 1기, **우수 활동팀, 우수 활동자** `2022.01 ~ 2022.03`
+- 👩🏻‍💻 SK mySUNI DGL 디지털 리터러시 기획단 1기, **우수 활동팀(3위), 우수 활동자** `2022.01 ~ 2022.03`
 - 👩🏻‍💻 빅데이터 연합동아리 BOAZ 18기, 데이터 분석 & 시각화 부문 **우수 활동자** `2022.01 ~ 2023.01`
 </br>
 
 
 
-## 📚 Study Blog
-[[  NLP  ]](https://wistful-soap-d03.notion.site/NLP-Study-76b333ed13924807b25977968f865472?pvs=4)
-[[  DL  ]](https://wistful-soap-d03.notion.site/bcf0e7a0b9294cd287661fedf3bd592c?pvs=4)
-[[  Algorithm  ]](https://wistful-soap-d03.notion.site/b3d5af7aa5cd43dcb56bf6230b76b5ac?pvs=4)
-[[  MLOps  ]](https://wistful-soap-d03.notion.site/MLOps-9eaebe00aec0492498b3f531a560df47?pvs=4)
-[[  LLM  ]](https://wistful-soap-d03.notion.site/LLM-Study-4e281f09951b4b199a51909b29974b19?pvs=4)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeorii)](https://solved.ac/yeorii)
-<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=yeorii&theme=cold)-->
-
 ## 🛠️ Tech Stack 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/> [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeorii)](https://solved.ac/yeorii)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
 
+## 📚 Study Blog
+<a href="https://yeorii.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-F25546.svg?logo=Tistory&logoColor=white"></a>
+<a href="https://wistful-soap-d03.notion.site/Hyeyeon-Study-6c674c144b60460eb958c08fd09d8cd5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeorii)](https://solved.ac/yeorii)
 
 ## 📞 Contacts
 
