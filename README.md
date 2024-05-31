@@ -30,3 +30,7 @@
 ## 📞 Contacts
 
 <a href="mailto:yeorii@korea.ac.kr"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a> <a href="https://public.tableau.com/app/profile/.75603875/vizzes"><img src="https://img.shields.io/badge/Tableau Public-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+</br>
+</br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeoniiii&count_bg=%23FFB9CD&title_bg=%23888686&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
