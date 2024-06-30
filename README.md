@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
 
 ## 📚 Study Blog
-<a href="https://wistful-soap-d03.notion.site/Hyeyeon-Study-6c674c144b60460eb958c08fd09d8cd5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://wistful-soap-d03.notion.site/STUDY-bec4465d2ab1457e8ece6b14b8243452?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <a href="https://yeorii.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-F25546.svg?logo=Tistory&logoColor=white"></a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeorii)](https://solved.ac/yeorii)
 
